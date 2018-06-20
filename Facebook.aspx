@@ -21,6 +21,7 @@
                 cookie: true, // enable cookies to allow the server to access the session
                 xfbml: true, // parse XFBML
                 oauth: true // enable OAuth 2.0
+                
             });
         };
         (function () {
